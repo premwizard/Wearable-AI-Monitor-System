@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #000000ff;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.recharts-wrapper {
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.btn {
+  background: #4CAF50;
+  color: white;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background: #45a049;
+}
+
+.report-box {
+  margin-top: 15px;
+  padding: 10px;
+  background: #f1f8ff;
+  border-left: 4px solid #2196F3;
+  white-space: pre-wrap;
+}
