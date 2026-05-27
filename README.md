@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - Initial work and project creator
+- **PREM M** - Initial work and project creator
 
 ## 🙏 Acknowledgments
 
@@ -329,9 +329,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB for reliable data storage
 - All contributors and users
 
-## 📞 Support
-
-For support, email support@wearablemonitor.com or open an issue on GitHub.
 
 ## 🔄 Version History
 
@@ -355,8 +352,3 @@ For support, email support@wearablemonitor.com or open an issue on GitHub.
 - [ ] Dark mode UI
 - [ ] Multi-language support
 
----
-
-**Happy Health Tracking! 💚**
-
-For more information, visit our [website](https://wearablemonitor.example.com)
